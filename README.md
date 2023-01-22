@@ -72,7 +72,7 @@ const response = FetchJson.Post(url, payload, options);
 const response = FetchJson.Put(url, payload, options);
 ```
 
-### Remove
+### Delete (Remove)
 
 ```javascript
 const response = FetchJson.Remove(url, options);
