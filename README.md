@@ -13,7 +13,7 @@ There are two ways to import the library to your project:
 1VwgEzQRhb6igER9A5Jd_yXHaTBUG1tEBXxt6_W5UudkyUAeFT9T0vY_N
 ```
 
-2. Add the latest version: for example, `2`
+2. Add the latest version: for example, `4`
 3. Use the identifier `FetchJson`
 
 These actions will update your `appsscript.json`.
@@ -25,7 +25,7 @@ Or, you can update it directly adding to the `dependencies` object:
     "libraries": [
       {
         "userSymbol": "FetchJson",
-        "version": "3",
+        "version": "4",
         "libraryId": "1VwgEzQRhb6igER9A5Jd_yXHaTBUG1tEBXxt6_W5UudkyUAeFT9T0vY_N"
       }
     ]
